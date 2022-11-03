@@ -4,7 +4,7 @@
 
 💡 I like to **explore new technologies** and **develop software solutions**\
 🎓 I'm currently studying **Computer Science** at the **Epitech School**.\
-🌍 I'm currently living in Barcelona, Spain
+🌍 I'm currently living in **Barcelona, Spain**\
 🌱 I'm on track for learning more about **Fullstack Web Development**, **Software Development** and **DevOps**.\
 ✉️ You can shoot me an email at **antony.fantapie@epitech.eu**! I'll try to respond as soon as I can.
 <!-- 📄 Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
