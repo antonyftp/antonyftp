@@ -3,8 +3,8 @@
 ### 👨🏻‍💻 About Me
 
 💡 I like to **explore new technologies** and **develop software solutions**\
-🎓 I'm currently studying **Computer Science** at the **Epitech School**.\
-🌍 I'm currently living in **Strasbourg, Spain**\
+🎓 I'm currently a **DevOps Engineer** at **Bloomind**.\
+🌍 I'm currently living in **Strasbourg, France**\
 🌱 I'm on track for learning more about **DevOps**, **Fullstack Web Development** and **Software Development**.\
 ✉️ You can shoot me an email at **antony.fantapie@epitech.eu**! I'll try to respond as soon as I can.
 
