@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 DevOps Engineer | Platform & Cloud Infrastructure
 
-💡 I build **Kubernetes** and **AWS** infrastructure for high-stakes environments — from nuclear power plant systems to platforms serving **15M+ daily active users** with zero unplanned downtime\
+💡 I build **Kubernetes** and **AWS** infrastructure for high-stakes environments
 🌍 **Toronto, ON, Canada**\
 🚀 Multi-DC deployments, GitOps pipelines, and observability at scale\
 ✉️ You can shoot me an email at **fantapie.antony@gmail.com**! I'll try to respond as soon as I can.
